@@ -1,2 +1,3 @@
 # PVFE
-public verifiable function evaluation
+Public Verifiable Function Evaluation
+
